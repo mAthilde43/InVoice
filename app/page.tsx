@@ -1,3 +1,7 @@
+// Lancer l'app :
+// npm run dev
+// npx prisma studio
+
 "use client";
 import { Layers } from "lucide-react";
 import Wrapper from "./components/Wrapper";
