@@ -9,19 +9,28 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@clerk/nextjs": "^6.31.3",
+    "@prisma/client": "^6.14.0",
+    "canvas-confetti": "^1.9.3",
+    "html2canvas-pro": "^1.5.11",
+    "jspdf": "^3.0.1",
+    "lucide-react": "^0.540.0",
+    "next": "15.5.0",
     "react": "19.1.0",
-    "react-dom": "19.1.0",
-    "next": "15.5.0"
+    "react-dom": "19.1.0"
   },
   "devDependencies": {
-    "typescript": "^5",
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "@types/canvas-confetti": "^1.9.0",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "@tailwindcss/postcss": "^4",
-    "tailwindcss": "^4",
+    "daisyui": "^5.0.50",
     "eslint": "^9",
     "eslint-config-next": "15.5.0",
-    "@eslint/eslintrc": "^3"
+    "prisma": "^6.14.0",
+    "tailwindcss": "^4",
+    "typescript": "^5"
   }
 }
